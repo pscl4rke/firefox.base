@@ -1,0 +1,15 @@
+
+
+Modern web browsers are terribly confused.  They are so focused upon
+doing everything through one everlasting session that they completely
+overlook how much cleaner everything runs if sessions are disposable.
+Launching a new session for every task in its own independent window
+makes interacting with the modern web much more predictable and puts
+the user back in control.
+
+This project provides a base template for a Firefox profile.  It's
+set to my own preferences, but you can copy the idea for yourselves.
+This is rarely updated, but does get copied every time I want to do
+a bit of web browsing.
+
+
