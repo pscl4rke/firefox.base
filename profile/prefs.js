@@ -23,7 +23,7 @@ user_pref("browser.sessionstore.upgradeBackup.latestBuildID", "20150114034423");
 user_pref("browser.slowStartup.averageTime", 10959);
 user_pref("browser.slowStartup.samples", 1);
 user_pref("extensions.blocklist.pingCountVersion", 0);
-user_pref("extensions.bootstrappedAddons", "{\"langpack-en-GB@iceweasel.mozilla.org\":{\"version\":\"31.4.0\",\"type\":\"locale\",\"descriptor\":\"/usr/lib/iceweasel/browser/extensions/langpack-en-GB@iceweasel.mozilla.org.xpi\"}}");
+user_pref("extensions.bootstrappedAddons", "{\"langpack-en-GB@iceweasel.mozilla.org\":{\"version\":\"31.4.0\",\"type\":\"locale\",\"descriptor\":\"/usr/lib/iceweasel/browser/extensions/langpack-en-GB@iceweasel.mozilla.org.xpi\"},\"VimFx@akhodakivskiy.github.com\":{\"version\":\"0.5.17\",\"type\":\"extension\",\"descriptor\":\"/home/psc/firefox.base/profile/extensions/VimFx@akhodakivskiy.github.com.xpi\"}}");
 user_pref("extensions.databaseSchema", 16);
 user_pref("extensions.enabledAddons", "%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:31.4.0");
 user_pref("extensions.installCache", "[{\"name\":\"app-global\",\"addons\":{\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\":{\"descriptor\":\"/usr/lib/iceweasel/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"mtime\":1421507664000,\"rdfTime\":1421208721000},\"langpack-en-GB@iceweasel.mozilla.org\":{\"descriptor\":\"/usr/lib/iceweasel/browser/extensions/langpack-en-GB@iceweasel.mozilla.org.xpi\",\"mtime\":1421147954000}}}]");
